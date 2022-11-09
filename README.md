@@ -2,7 +2,8 @@
 
 # Github Copilot
     The Github Copilot is among the trending VsCode extensions this year. 
-    It makes real-time code and function suggestions directly on your code editor using an OpenAI Codex. GitHub Copilot generates coding suggestions in dozens of languages using natural language cues like comments and method names after being trained on billions of lines of public code.
+    It makes real-time code and function suggestions directly on your code editor using an OpenAI Codex. 
+    GitHub Copilot generates coding suggestions in dozens of languages using natural language cues like comments and method names after being trained on billions of lines of public code.
   
 # Auto Close Tag
     The Auto Close tag extension automatically closes any tag. 
