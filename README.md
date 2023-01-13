@@ -1,5 +1,9 @@
 # VSCodeTopAddons
 
+# ChatGpt
+    Use browser or official API integration for OpenAI ChatGPT, GPT3 and Codex. Create new files & projects with one click. Copilot to learn code, add tests
+
+
 # Github Copilot
     The Github Copilot is among the trending VsCode extensions this year. 
     It makes real-time code and function suggestions directly on your code editor using an OpenAI Codex. 
